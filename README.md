@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Rain Hu ![](https://komarev.com/ghpvc/?username=intervalrain)
+
+- You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
+- Or view my resume: [resume](https://intervalrain.github.io/posts/rainhu.pdf)
 
 <!--
 **intervalrain/intervalrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intervalrain&langs_count=8&theme=synthwave)
+
+[![Rain's github stats](https://github-readme-stats.vercel.app/api?username=intervalrain&theme=dark))](https://github.com/intervalrain/intervalrain)
+
