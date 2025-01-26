@@ -1,22 +1,17 @@
 ### Hi there 👋 I'm Rain Hu ![](https://komarev.com/ghpvc/?username=intervalrain)
 
 - You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
-- Or view my resume: [resume](https://intervalrain.github.io/posts/rainhu.pdf)
+- Or view my resume: [resume](https://intervalrain.github.io/resume202411.pdf)
+- Or checkout my side project: [Nihon Go](https://japanese-learning-platform.vercel.app)
 
-<!--
-**intervalrain/intervalrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Advantech as a system architect
+- 🌱 I’m currently learning
+  - Machine Learning(ML) / Deep Learning(DL) / Large Language Model(LLM)
+  - Domain Driven Design(DDD) / Clean Architecture
+  - Web Development using React Nextjs with TypeScript + tailwindCSS + shadcn.ui
+  - LLM Applications like RAG, CAG, AI agents
+- 👯 I’m looking to collaborate on Machine Learning Experts
+- 📫 How to reach me: [email](mailto:intervalrain@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intervalrain&langs_count=8&theme=synthwave)
 
