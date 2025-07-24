@@ -3,8 +3,8 @@
 - You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
 - Or view my resume: [resume](https://intervalrain.github.io/resume202411.pdf)
 - Or checkout my side project:
-  - [Nihon Go](https://japanese-learning-platform.vercel.app)
-  - [Scheduler](https://scheduler-ten-mu.vercel.app/)
+  - [Nihon Go](https://japanese-learning-platform.vercel.app) - A Japanese Learning Site
+  - [ScheduleR](https://schedule-r.vercel.app/) - A Project Management System
 
 - 🔭 I’m currently working on Advantech as a system architect
 - 🌱 I’m currently learning
