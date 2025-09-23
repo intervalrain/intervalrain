@@ -3,6 +3,7 @@
 - You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
 - Or view my resume: [resume](https://intervalrain.github.io/resume202411.pdf)
 - Or checkout my side project:
+  - [0x3f](https://0x3-f.vercel.app/) - A Leetcode tracker with difficulty points ordering and statistics
   - [Nihon Go](https://japanese-learning-platform.vercel.app) - A Japanese Learning Site
   - [ScheduleR](https://schedule-r.vercel.app/) - A Project Management System
 
