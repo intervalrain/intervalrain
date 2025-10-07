@@ -3,17 +3,20 @@
 - You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
 - Or view my resume: [resume](https://intervalrain.github.io/resume202411.pdf)
 - Or checkout my side project:
-  - [0x3f](https://0x3-f.vercel.app/) - A Leetcode tracker with difficulty points ordering and statistics
+  - [0x3f](https://0x3-f.vercel.app/) - A Leetcode tracker with difficulty points ordering and statistics & algorithm learning notes
   - [Nihon Go](https://japanese-learning-platform.vercel.app) - A Japanese Learning Site
   - [ScheduleR](https://schedule-r.vercel.app/) - A Project Management System
 
-- 🔭 I’m currently working on Advantech as a system architect
+- 🔭 I’m currently working on Advantech as a C# coder
+  - IoT System
+  - Microservice
+  - DDD, Clean Architecture and CQRS implementation
+  - SDK development
 - 🌱 I’m currently learning
-  - Machine Learning(ML) / Deep Learning(DL) / Large Language Model(LLM)
-  - Domain Driven Design(DDD) / Clean Architecture
+  - Machine Learning(ML) / Deep Learning(DL) / Supervised Learning
   - Web Development using React Nextjs with TypeScript + tailwindCSS + shadcn.ui
-  - LLM Applications like RAG, CAG, AI agents
-- 👯 I’m looking to collaborate on Machine Learning Experts
+  - System Design & System Architecture
+  - Prompt Engineering / Context Engineer / "Systemetic" Vibe coding
 - 📫 How to reach me: [email](mailto:intervalrain@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intervalrain&langs_count=8&theme=synthwave)
