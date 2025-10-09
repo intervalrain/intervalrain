@@ -6,6 +6,7 @@
   - [0x3f](https://0x3-f.vercel.app/) - A Leetcode tracker with difficulty points ordering and statistics & algorithm learning notes
   - [Nihon Go](https://japanese-learning-platform.vercel.app) - A Japanese Learning Site
   - [ScheduleR](https://schedule-r.vercel.app/) - A Project Management System
+  - [MdSlides](https://md-slides.vercel.app/) - A online slide editor with markdown
 
 - 🔭 I’m currently working on Advantech as a C# coder
   - IoT System
