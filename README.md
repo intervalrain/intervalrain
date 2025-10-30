@@ -22,5 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intervalrain&langs_count=8&theme=synthwave)
 
-[![Rain's github stats](https://github-readme-stats.vercel.app/api?username=intervalrain&theme=dark))](https://github.com/intervalrain/intervalrain)
+![Rain's github stats](https://github-readme-stats.vercel.app/api?username=intervalrain&theme=dark)
 
