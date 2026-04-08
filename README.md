@@ -9,18 +9,16 @@
   - [MdSlides](https://md-slides.vercel.app/) - A online slide editor with markdown
 
 - 🔭 I’m currently working on Advantech as a C# coder
-  - IoT System
+  - IoT Platform (WEDA)
   - Microservice
   - DDD, Clean Architecture and CQRS implementation
   - SDK development
+  - Distributed system
+
 - 🌱 I’m currently learning
   - Machine Learning(ML) / Deep Learning(DL) / Supervised Learning
-  - Web Development using React Nextjs with TypeScript + tailwindCSS + shadcn.ui
+  - Web Development
   - System Design & System Architecture
-  - Prompt Engineering / Context Engineer / "Systemetic" Vibe coding
+  - Prompt Engineering / Context Engineering / Harness engineering
+    
 - 📫 How to reach me: [email](mailto:intervalrain@gmail.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intervalrain&langs_count=8&theme=synthwave)
-
-![Rain's github stats](https://github-readme-stats.vercel.app/api?username=intervalrain&theme=dark)
-
