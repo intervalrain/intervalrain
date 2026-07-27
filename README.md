@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rain Hu ![](https://komarev.com/ghpvc/?username=intervalrain)
 
 - You can visit my pages: [Rain Hu's Workspace](https://intervalrain.github.io/)
-- Or view my resume: [resume](https://intervalrain.github.io/resume202411.pdf)
+- Or view my resume: [resume](https://intervalrain.github.io/resume.pdf)
 - Or checkout my side project:
   - [0x3f](https://0x3-f.vercel.app/) - A Leetcode tracker with difficulty points ordering and statistics & algorithm learning notes
   - [Nihon Gol](https://nihongol.vercel.app) - A Japanese Learning Site
